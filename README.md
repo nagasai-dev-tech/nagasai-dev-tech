@@ -6,8 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pnagasai) 
 
 ## SKILLS:
-![Excel](https://img.shields.io/badge/excel-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-
+https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white
 
 
 # 💻 Skills:
