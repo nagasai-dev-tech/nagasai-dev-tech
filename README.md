@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nagasai Petnikoti<br>👀 I’m interested in Data Analyst & Developer<br>🌱 I’m currently learning Power Bi & tableau<br>📫 How to reach me : petnikotinagasai@gmail.com or 9603511436<br>😄 Pronouns: he/his
+👋 Hi, I’m Nagasai Petnikoti<br>👀 I’m interested in Data Analyst & Developer<br>🌱 I’m currently learning AI & AWS.<br>📫 How to reach me : petnikotinagasai@gmail.com or 9603511436<br>😄 Pronouns: he/his
 
 
 ## 🌐 Socials:
